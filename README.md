@@ -25,7 +25,7 @@
 
 ## Features
 List the ready features here:
--
+- Loading csv files to Power BI from folder,
 
 ## Screenshots
 ![Example screenshot](/app/static/func-diagram.png)
