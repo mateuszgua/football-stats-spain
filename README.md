@@ -17,7 +17,7 @@
 
 ## General Information
 - This project was created because I wanted to use Power Bi with csv file and Power Query. 
-- Data source: [here]()
+- Data source: [here](https://www.football-data.co.uk/spainm.php)
 
 
 ## Technologies Used
@@ -25,7 +25,7 @@
 
 ## Features
 List the ready features here:
--
+- Loading csv files to Power BI from folder,
 
 ## Screenshots
 ![Example screenshot](/app/static/func-diagram.png)
